@@ -18,12 +18,12 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: nice_nano_v2
     shield: cradio_left
-  - board: nrf52840_m2
+  - board: nice_nano_v2
     shield: cradio_right
 include:
-  - board: nrf52840_m2
+  - board: nice_nano_v2
     shield: cradio_left
-  - board: nrf52840_m2
+  - board: nice_nano_v2
     shield: cradio_right
