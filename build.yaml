@@ -19,9 +19,9 @@
 ---
 include:
   - board: nice_nano
-    shield: cradio_left nice_nano nice_view_adapter nice_view
+    shield: cradio_left nice_view_adapter nice_view
   - board: nice_nano
-    shield: cradio_right nice_nano nice_view_adapter nice_view
+    shield: cradio_right nice_view_adapter nice_view
 #include:
  # - board: nice_nano
   #  shield: cradio_left
